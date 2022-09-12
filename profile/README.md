@@ -1,4 +1,4 @@
-## webOS Archive 👋
+## webOS Archive
 
 Palm and HP's webOS mobile platform was a relatively short-lived entry in the mobile OS wars. Built-on Linux foundations, it leveraged web frameworks (NodeJS, and Mojo and Enyo front-end javascript libraries) to provide stunning UIs and a fluid multi-tasking environment. Palm later added a PDK for writing directly to the hardware. 
 
