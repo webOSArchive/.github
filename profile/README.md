@@ -2,7 +2,7 @@
 
 Palm and HP's webOS mobile platform was a relatively short-lived entry in the smart phone OS wars. Built-on Linux foundations, it leveraged web frameworks (NodeJS, and Mojo and Enyo front-end javascript libraries) to provide stunning UIs and a fluid multi-tasking environment on Palm Pre and Pixi, and HP Pre, Veer and Touchpad devices. Palm later added a PDK for interacting directly to the hardware. 
 
-Because of the technology used, the platform was incredibly developer-friendly and customizable, and pioneered a number of UI innovations that modern smart phones still copy. After its sale to HP, and an even shorter lived forray into tablet form factors, the platform was sold off to LG where its descendents are still used in their TVs.
+Because of the technology used, the platform was incredibly developer-friendly and customizable, and pioneered a number of UI innovations that modern smart phones still copy. After its sale to HP, and an even shorter lived forray into tablet form factors, the platform was sold off to LG where its descendent is still used in their Smart TVs.
 
 This is a fan-led effort to preserve and provide access to historical artifacts related to the platform, much of which was open source. There is no commercial intent or aspiration, and all materials are subject to fair use provisions of US copyright law, as the project serves the public interest in preservation, access and research. Additionally, since the webOS mobile platform has been obsolete since 2012, this work is [exempted from the DMCA](https://www.copyright.gov/1201/docs/1201_recommendation.pdf) per a [2006 ruling by the U.S. Copyright office](https://www.copyright.gov/1201/docs/librarian_statement_01.html). 
 
